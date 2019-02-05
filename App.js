@@ -1,12 +1,18 @@
 import React from 'react';
-import { StyleSheet, Text, View } from 'react-native';
+import { StyleSheet, Text,  ScrollView} from 'react-native';
+import Header from './src/components/Header';
+import Mid from './src/components/Mid';
+import Body from './src/components/Body';
+
 
 export default class App extends React.Component {
   render() {
     return (
-      <View style={styles.container}>
-        <Text>Open up App.js to start working on your app!</Text>
-      </View>
+      <ScrollView>
+        <Header />
+        <Mid />
+        <Body />
+      </ScrollView>
     );
   }
 }

@@ -14,7 +14,7 @@ export default class Header extends Component {
     return (
       <ImageBackground
         style={styles.headerbg}
-        source={require('../img/headerbg.jpeg')}
+        source={require('../img/My.jpg')}
         >
         <View style={styles.headercontainer}>
           <View style={styles.profilepiccontainer}>
