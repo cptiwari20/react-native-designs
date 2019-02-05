@@ -4,7 +4,7 @@ import Body from './Body';
 import Mid from './Mid';
 import Header from './Header';
 
-class Portfolio extends Component {
+export default class Portfolio extends Component {
   render(){
     return (
       <ScrollView>
