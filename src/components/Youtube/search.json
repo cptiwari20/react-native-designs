@@ -1,0 +1,177 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/sl37stZ3YrgeNtx_qReRfY-F32Y\"",
+  "nextPageToken": "CAUQAA",
+  "regionCode": "IN",
+  "pageInfo": {
+    "totalResults": 517,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/JlHUTq4Hjci4n7R5_uL8VovPozY\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "R1vskiVDwl4"
+      },
+      "snippet": {
+        "publishedAt": "2016-02-16T18:44:44.000Z",
+        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+        "title": "10 ways to have a better conversation | Celeste Headlee",
+        "description": "When your job hinges on how well you talk to people, you learn a lot about how to have conversations — and that most of us don't converse very well. Celeste Headlee has worked as a radio host for decades, and she knows the ingredients of a great conversation: Honesty, brevity, clarity and a healthy amount of listening. In this insightful talk, she shares 10 useful rules for having better conversations. \"Go out, talk to people, listen to people,\" she says. \"And, most importantly, be prepared to be amazed.\"\n\nTEDTalks is a daily video podcast of the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and much more.\nFind closed captions and translated subtitles in many languages at http://www.ted.com/translate\n\nFollow TED news on Twitter: http://www.twitter.com/tednews\nLike TED on Facebook: https://www.facebook.com/TED\n\nSubscribe to our channel: http://www.youtube.com/user/TEDtalksDirector",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/R1vskiVDwl4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/R1vskiVDwl4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/R1vskiVDwl4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TED",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/BBaVDHeee_U7vXkJBnHj0ORt5ec\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rojft7g2BSI"
+      },
+      "snippet": {
+        "publishedAt": "2018-06-06T11:37:01.000Z",
+        "channelId": "UCsNlfrFsaR0ovlnjFLzlGIQ",
+        "title": "JACK MA: You Need To Hear This (INCREDIBLE SPEECH!)",
+        "description": "JACK MA: You Need To Hear This (INCREDIBLE SPEECH!)\n\nMa Yun, born September 10, 1964), known professionally as Jack Ma, is a Chinese business magnate who is the founder and executive chairman of Alibaba Group, a family of successful Internet-based businesses.\nHe is the first mainland Chinese entrepreneur to appear on the cover of Forbes.\n\nFAIR-USE COPYRIGHT DISCLAIMER\n* Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, commenting, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.\n\n1)This video has no negative impact on the original works \n2)This video is also for teaching and inspirational purposes.\n3)It is not transformative in nature.\n\nLaw Of Attraction Coaching does not own the rights to these images, videos and audio files. They have, in accordance with fair use, been repurposed with the intent of educating and motivate others. However, if any content owners would like their images removed, please contact us by email at innergrowth.inc@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rojft7g2BSI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rojft7g2BSI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rojft7g2BSI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Law of Attraction Coaching",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/mbe2LXTsuG7I8c07y13yY1F8VN4\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "81Ub0SMxZQo"
+      },
+      "snippet": {
+        "publishedAt": "2013-05-08T14:27:43.000Z",
+        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+        "title": "Bill Gates: Teachers need real feedback",
+        "description": "Until recently, many teachers only got one word of feedback a year: \"satisfactory.\" And with no feedback, no coaching, there's just no way to improve. Bill Gates suggests that even great teachers can get better with smart feedback -- and lays out a program from his foundation to bring it to every classroom.\n\nTEDTalks is a daily video podcast of the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and much more.\nFind closed captions and translated subtitles in many languages at http://www.ted.com/translate\n\nFollow TED news on Twitter: http://www.twitter.com/tednews\nLike TED on Facebook: https://www.facebook.com/TED\n\nSubscribe to our channel: http://www.youtube.com/user/TEDtalksDirector",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/81Ub0SMxZQo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/81Ub0SMxZQo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/81Ub0SMxZQo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TED",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/LpKZaXRALnl7IUA8Mj_mdic9BaM\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sBfng6Jd4Cc"
+      },
+      "snippet": {
+        "publishedAt": "2018-03-31T19:58:35.000Z",
+        "channelId": "UCG-KntY7aVnIGXYEBQvmBAQ",
+        "title": "8 Things to STOP Doing When You Wake Up in the Morning",
+        "description": "Get a free audiobook of your choosing and a 30-day trial of Audible at https://www.audible.com/thomas, or by texting \"Thomas\" to 500-500 on your phone.\n\nHuge thanks to Audible for sponsoring this video!\n\nMornings present you with a huge opportunity to practicing good habits. Often, though, our mornings are filled with more BAD habits than good ones.\n\nToday, I'm breaking down 8 common habits that you need to remove from your mornings if you're currently doing them.\n\nGet my book \"10 Steps to Earning Awesome Grades\" FREE: \nhttps://collegeinfogeek.com/get-better-grades/\n\nFollow Me:\nInstagram ➔ https://instagram.com/tomfrankly\nTwitter ➔ https://twitter.com/tomfrankly\nPodcast ➔ https://www.youtube.com/TheCollegeInfoGeekPodcast\n\nSubscribe to My Channel:\nhttp://buff.ly/1vQP5ar\n\nLinks from the Video:\n\nMy hack for waking up early: https://www.youtube.com/watch?v=DZPNqJc-Jeg\n\nMore on how to wake up early: https://www.youtube.com/watch?v=6XFAYNQIM3Q\n\nHow to build a great morning routine: https://www.youtube.com/watch?v=k3Ls28qBT5c\n\nMy Video Gear:\nhttps://kit.com/tomfrankly/my-video-gear",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sBfng6Jd4Cc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sBfng6Jd4Cc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sBfng6Jd4Cc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Thomas Frank",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/XW8hxH1-PNlovCE10MVr1JkTEiM\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "crXlh_maURY"
+      },
+      "snippet": {
+        "publishedAt": "2017-02-14T23:48:18.000Z",
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "title": "Como reiniciar a sua mente e praticar bons hábitos | Kau Mascarenhas | TEDxRioVermelho",
+        "description": "Na era das conexões rápidas e da vida acelerada, parece impossível \"desligar\", mas você pode fazer uma pausa nesse ritmo e descobrir maneiras mais saudáveis de se conectar com o mundo e obter melhores resultados nas mais diferentes áreas da sua vida. Pequenas mudanças podem criar bons hábitos e nos levar ao sucesso (tornar nossos planos ou sonhos em realidade) mais rápido do que podemos imaginar. A ideia da palestra é ter um tempo para refletir sobre pensamentos que nos incomodam e colocá-los para serem guiados pelo seguinte processo: tratá-los antes de eliminá-los, tomar atitudes e resolvê-los.\n\nPalestrante e consultor com formações em PNL - Programação Neurolinguística e Coaching. Desenvolve seu trabalho na perspectiva do Ser Humano Integral. Escreveu o livro Mudando para Melhor. É arquiteto, ilustrador, compositor, escritor e poeta e sua competência nessas áreas é um diferencial em seu trabalho com desenvolvimento humano no âmbito organizacional. É sócio-diretor do Pro-Ser Instituto. Reconhecido pela palavra entusiasmada e pelos estados motivadores que evoca no público, Kau tem grande domínio de conteúdo e é dono de processos de comunicação criativos e energizantes. Com seu trabalho leva reflexões, disparos de mudança, criatividade e carisma para várias cidades de todo o país.\n\nThis talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at http://ted.com/tedx",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/crXlh_maURY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/crXlh_maURY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/crXlh_maURY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TEDx Talks",
+        "liveBroadcastContent": "none"
+      }
+    }
+  ]
+}

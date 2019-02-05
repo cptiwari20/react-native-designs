@@ -14,17 +14,17 @@ export default class Header extends Component {
     return (
       <ImageBackground
         style={styles.headerbg}
-        source={require('../img/My.jpg')}
+        source={require('../img/headerbg.jpeg')}
         >
         <View style={styles.headercontainer}>
           <View style={styles.profilepiccontainer}>
             <Image
               style={styles.mypic}
-              source={require('../img/profilepic.jpeg')}
+              source={require('../img/My.jpg')}
                />
           </View>
-          <Text style={styles.name}>Hitesh Choudhary</Text>
-          <Text style={styles.liner}>A part time photographer</Text>
+          <Text style={styles.name}>Chandra Prakash Tiwari</Text>
+          <Text style={styles.liner}>Developer</Text>      
         </View>
 
       </ImageBackground>

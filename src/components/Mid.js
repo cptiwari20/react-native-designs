@@ -12,12 +12,12 @@ export default class Mid extends Component {
     return (
       <View style={styles.mid}>
         <View style={[styles.outerview, styles.leftbar]}>
-          <Text style={styles.textone}>75 +</Text>
-          <Text style={styles.texttwo}>Images</Text>
+          <Text style={styles.textone}>7 +</Text>
+          <Text style={styles.texttwo}>Web-Apps</Text>
         </View>
         <View style={styles.outerview}>
-          <Text style={styles.textone}>100K +</Text>
-          <Text style={styles.texttwo}>Subscribers</Text>
+          <Text style={styles.textone}>2 </Text>
+          <Text style={styles.texttwo}>Mobile Apps</Text>
         </View>
       </View>
     );
